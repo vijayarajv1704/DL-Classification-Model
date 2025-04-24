@@ -165,8 +165,7 @@ print(f'Actual class for sample input: {iris.target_names[y_test[5].item()]}')
 ![image](https://github.com/user-attachments/assets/0226f9a2-7f1b-4134-9e35-1fe51e83a957)
 
 
-### New Sample Data Prediction
-![image](https://github.com/user-attachments/assets/38b33dc5-f6f7-42f2-a1b9-62b647724334)
+
 
 
 ## RESULT
